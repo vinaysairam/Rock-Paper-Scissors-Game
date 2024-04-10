@@ -1,0 +1,21 @@
+.choice-vw {
+  display: flex;
+  background-color: transparent;
+  width: 50%;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style-type: none;
+  justify-content: center;
+  padding: 0px;
+  margin-top: 40px;
+}
+.btn-choice {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.img-ch {
+  height: 180px;
+  width: 180px;
+}

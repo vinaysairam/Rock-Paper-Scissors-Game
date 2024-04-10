@@ -1,0 +1,48 @@
+.score {
+  border: 1px solid white;
+  padding: 10px 30px 10px 30px;
+  border-radius: 8px;
+  color: white;
+  font-family: 'Bree Serif';
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  box-sizing: border-box;
+  align-items: center;
+}
+.pp {
+  width: 130px;
+}
+p {
+  padding: 0px;
+  margin: 7px;
+}
+.fl1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 85%;
+  border-radius: 10px;
+  box-sizing: border-box;
+  margin: 0px;
+  justify-content: center;
+  background-color: white;
+  font-family: 'Roboto';
+  width: 120px;
+}
+.p1 {
+  color: #223a5f;
+  font-weight: 500;
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+}
+.ss {
+  color: #223a5f;
+  font-weight: 500;
+  font-size: 30px;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
